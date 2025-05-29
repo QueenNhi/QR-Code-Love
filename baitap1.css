@@ -1,0 +1,52 @@
+.container-fluid-1 {
+  border-top: 10px solid #0066FF;
+ }
+ .search {
+   margin-left: 500px;
+ }
+ .nav-tabs {
+   margin-left: 750px;
+   
+ }
+ .B1 {
+   border-top: 50px solid #e4dede;
+   border-bottom: 45px solid #e4dede ;
+   height: 200px;
+   padding-top: 30px;
+ }
+ 
+ li a:hover {
+     background-color: #ddd;
+     color: black;
+     border-radius: 4px;
+ }
+ .nav-link {
+     background-color: #f8f9fa;
+     color: #000;
+     transition: background-color 0.3s ease, color 0.3s ease;
+     border: 1px solid transparent;
+ }
+ 
+ /* Hiệu ứng khi người dùng hover lên nút */
+ .nav-link:hover {
+     background-color: #ddd;
+     color: #000;
+     border-color: #ccc;
+     border-radius: 5px;
+ }
+ 
+ /* Hiển thị nút tab đang được chọn */
+ .nav-link.active {
+     background-color: #e9ecef;
+     color: #000;
+     border-color: #ddd #ddd #fff;
+     border-radius: 5px;
+ }
+ .text.a {
+     float: right;
+ }
+ .img {
+   width:  50px;
+   height: 50px;
+ }
+ 
